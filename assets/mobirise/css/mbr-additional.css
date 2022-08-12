@@ -804,3 +804,151 @@ a {
   background-color: #ffffff;
   color: #000000;
 }
+.cid-teiFtBTADB {
+  background-image: linear-gradient(135deg, #e43f3f 10%, #4479d9 100%) !important;
+}
+.cid-teiFtBTADB .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-teiFtBTADB .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-teiFhUzEVX {
+  padding-top: 7rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/macos-13-mamoth-dark-mode.png");
+}
+.cid-teiFhUzEVX .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-teiFhUzEVX .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-teiFhUzEVX .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-teiFhUzEVX .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-teiFhUzEVX .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-teiFhUzEVX .card-wrapper {
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.cid-teiFhUzEVX .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-teiFhUzEVX .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-teiU0eH0lH {
+  background-image: url("../../../assets/images/mbr.png");
+}
+.cid-teiU0eH0lH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-teiU0eH0lH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-teiU0eH0lH .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-teiU0eH0lH .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-teiU0eH0lH .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-teiU0eH0lH .mbr-text {
+  color: #ffffff;
+}
+.cid-teiU0eH0lH .card {
+  padding-bottom: 1.5rem;
+}
+.cid-teiU0eH0lH .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-teiU0eH0lH .card-wrapper .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+.cid-teiU0eH0lH .card-wrapper .card-title {
+  color: #ffffff;
+}
+.cid-teiNws0uMh {
+  background-image: url("../../../assets/images/background15.jpg");
+}
+.cid-teiNws0uMh .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-teiNws0uMh .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-teiNws0uMh .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-teiNws0uMh .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-teiNws0uMh .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
